@@ -246,9 +246,6 @@ footer ul li:hover i{
     header nav{
         width: 100%;
     }
-    .home{
-        margin: 50px 0; 
-     }
      .home .container{
         flex-wrap: wrap;
      }
@@ -279,3 +276,4 @@ footer ul li:hover i{
         font-size: 24px;
     }
 }
+

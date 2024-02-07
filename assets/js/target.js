@@ -9,3 +9,4 @@ function res(arr,tar){
 }
 let a = [2,7,11,15];
 console.log(res(a,9));
+
